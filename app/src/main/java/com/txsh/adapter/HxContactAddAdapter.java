@@ -12,8 +12,8 @@ import com.easemob.easeui.utils.APIConstants;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
-import com.zuomei.base.MLEventBusModel;
-import com.zuomei.constants.MLConstants;
+import com.txsh.base.MLEventBusModel;
+import com.txsh.constants.MLConstants;
 import org.greenrobot.eventbus.EventBus;
 
 

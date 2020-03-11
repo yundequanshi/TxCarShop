@@ -1,15 +1,11 @@
 package com.txsh.quote.business;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import com.baichang.android.widget.BCNoScrollListView;
-import com.bumptech.glide.Glide;
 import com.txsh.R;
 import com.txsh.quote.CommonActivity;
 import com.txsh.quote.business.entity.BizQuotedDetailData;
@@ -17,7 +13,6 @@ import com.txsh.quote.business.entity.BizQuotedTransferData;
 import com.txsh.quote.business.present.BizQuotedDetailPresent;
 import com.txsh.quote.business.present.Impl.BizQuotedDetialPresentImpl;
 import com.txsh.quote.business.view.BizQuotedDetailView;
-import com.zuomei.constants.APIConstants;
 
 public class BizQuotedDetailActivity extends CommonActivity implements BizQuotedDetailView {
 

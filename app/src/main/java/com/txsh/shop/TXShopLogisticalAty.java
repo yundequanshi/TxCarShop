@@ -13,11 +13,11 @@ import com.txsh.R;
 import com.txsh.model.TXShopLogisticalRes;
 import com.txsh.model.TXShopOrderRes;
 import com.txsh.services.MLShopServices;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.http.ZMHttpRequestMessage;
-import com.zuomei.http.ZMHttpType;
-import com.zuomei.http.ZMRequestParams;
+import com.txsh.base.BaseActivity;
+import com.txsh.http.ZMHttpError;
+import com.txsh.http.ZMHttpRequestMessage;
+import com.txsh.http.ZMHttpType;
+import com.txsh.http.ZMRequestParams;
 
 import cn.ml.base.utils.MLToolUtil;
 

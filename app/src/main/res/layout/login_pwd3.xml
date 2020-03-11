@@ -34,7 +34,7 @@
             android:textSize="23sp" />
     </RelativeLayout>
 
-    <com.zuomei.widget.MLLineLayout
+    <com.txsh.widget.MLLineLayout
         android:id="@+id/ll_oldPwd"
         android:layout_width="match_parent"
         android:layout_height="60dp"
@@ -56,9 +56,9 @@
             android:inputType="textPassword"
             android:maxLength="11"
             android:singleLine="true" />
-    </com.zuomei.widget.MLLineLayout>
+    </com.txsh.widget.MLLineLayout>
 
-    <com.zuomei.widget.MLLineLayout
+    <com.txsh.widget.MLLineLayout
         android:id="@+id/ll_newPwd"
         android:layout_width="match_parent"
         android:layout_height="60dp"
@@ -80,7 +80,7 @@
             android:inputType="textPassword"
             android:maxLength="11"
             android:singleLine="true" />
-    </com.zuomei.widget.MLLineLayout>
+    </com.txsh.widget.MLLineLayout>
 
     <Button
         android:id="@+id/btn_next"

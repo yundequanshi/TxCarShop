@@ -19,14 +19,14 @@ import com.txsh.adapter.TxIntegralShopAdapter;
 import com.txsh.model.TXIntegralShopRes;
 import com.txsh.model.TXIntergalProduct;
 import com.txsh.services.MLShopServices;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.http.ZMHttpRequestMessage;
-import com.zuomei.http.ZMHttpType;
-import com.zuomei.http.ZMRequestParams;
-import com.zuomei.model.MLLogin;
+import com.txsh.base.BaseActivity;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
+import com.txsh.http.ZMHttpError;
+import com.txsh.http.ZMHttpRequestMessage;
+import com.txsh.http.ZMHttpType;
+import com.txsh.http.ZMRequestParams;
+import com.txsh.model.MLLogin;
 
 import java.util.List;
 

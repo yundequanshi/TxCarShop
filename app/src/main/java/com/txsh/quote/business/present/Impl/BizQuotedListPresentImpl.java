@@ -2,7 +2,6 @@ package com.txsh.quote.business.present.Impl;
 
 import android.app.Activity;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
@@ -18,8 +17,8 @@ import com.txsh.quote.business.model.BizQuotedInteraction;
 import com.txsh.quote.business.model.Impl.BizQuotedInterationImpl;
 import com.txsh.quote.business.present.BizQuotedListPresent;
 import com.txsh.quote.business.view.BizQuotedListView;
-import com.zuomei.base.MLAppDiskCache;
-import com.zuomei.model.MLLogin;
+import com.txsh.base.MLAppDiskCache;
+import com.txsh.model.MLLogin;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

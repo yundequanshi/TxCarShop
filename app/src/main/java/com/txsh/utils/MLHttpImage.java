@@ -8,7 +8,7 @@ import com.lidroid.xutils.http.RequestParams;
 import com.lidroid.xutils.http.ResponseInfo;
 import com.lidroid.xutils.http.callback.RequestCallBack;
 import com.lidroid.xutils.http.client.HttpRequest;
-import com.zuomei.constants.APIConstants;
+import com.txsh.constants.APIConstants;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

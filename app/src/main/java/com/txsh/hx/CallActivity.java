@@ -26,7 +26,7 @@ import com.hyphenate.media.EMLocalSurfaceView;
 import com.hyphenate.media.EMOppositeSurfaceView;
 import com.hyphenate.util.EMLog;
 import com.txsh.R;
-import com.zuomei.base.BaseAct;
+import com.txsh.base.BaseAct;
 
 @SuppressLint("Registered")
 public class CallActivity extends BaseAct {

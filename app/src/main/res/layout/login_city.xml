@@ -36,11 +36,11 @@
          android:layout_height="2dp"
          android:background="@drawable/common_dialog_divider" />
 
-      <com.zuomei.widget.city.CityPicker
+      <com.txsh.widget.city.CityPicker
          android:id="@+id/login_citypicker"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
-         android:gravity="center"></com.zuomei.widget.city.CityPicker>
+         android:gravity="center"></com.txsh.widget.city.CityPicker>
    </LinearLayout>
 
    <TextView

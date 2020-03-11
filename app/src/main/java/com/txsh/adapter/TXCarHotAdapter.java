@@ -8,9 +8,9 @@ import android.widget.TextView;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.model.MLHomeCatalogData;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
+import com.txsh.model.MLHomeCatalogData;
 
 import cn.ml.base.MLAdapterBase;
 

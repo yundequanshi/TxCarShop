@@ -12,28 +12,28 @@ import android.widget.TextView;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
-import com.tencent.mm.sdk.modelbase.BaseReq;
-import com.tencent.mm.sdk.modelbase.BaseResp;
-import com.tencent.mm.sdk.openapi.IWXAPI;
-import com.tencent.mm.sdk.openapi.IWXAPIEventHandler;
-import com.tencent.mm.sdk.openapi.WXAPIFactory;
+import com.tencent.mm.opensdk.modelbase.BaseReq;
+import com.tencent.mm.opensdk.modelbase.BaseResp;
+import com.tencent.mm.opensdk.openapi.IWXAPI;
+import com.tencent.mm.opensdk.openapi.IWXAPIEventHandler;
+import com.tencent.mm.opensdk.openapi.WXAPIFactory;
 import com.txsh.R;
 import com.txsh.model.TXEventModel;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.constants.MLConstants;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.http.ZMHttpRequestMessage;
-import com.zuomei.http.ZMHttpType.RequestType;
-import com.zuomei.http.ZMRequestParams;
-import com.zuomei.model.MLSpecialResonse;
-import com.zuomei.services.MLPayServices;
+import com.txsh.base.BaseActivity;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
+import com.txsh.constants.MLConstants;
+import com.txsh.http.ZMHttpError;
+import com.txsh.http.ZMHttpRequestMessage;
+import com.txsh.http.ZMHttpType.RequestType;
+import com.txsh.http.ZMRequestParams;
+import com.txsh.model.MLSpecialResonse;
+import com.txsh.services.MLPayServices;
 
 import cn.ml.base.utils.MLStrUtil;
 import org.greenrobot.eventbus.EventBus;
 
-public class WXPayEntryActivity extends BaseActivity implements IWXAPIEventHandler{
+public class WXPayEntryActivity extends BaseActivity implements IWXAPIEventHandler {
 	
 	private static final String TAG = "MicroMsg.SDKSample.WXPayEntryActivity";
 	

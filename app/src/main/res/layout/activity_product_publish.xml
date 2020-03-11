@@ -6,7 +6,7 @@
    android:background="@color/common_bg"
    android:fitsSystemWindows="true"
    android:orientation="vertical"
-   tools:context="com.zuomei.home.ProductPublishActivity">
+   tools:context=".home.ProductPublishActivity">
 
    <RelativeLayout
       android:id="@+id/topbar"

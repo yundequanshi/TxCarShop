@@ -1,13 +1,11 @@
 package com.txsh.quote.deport.present.Impl;
 
 import android.app.Activity;
-import android.graphics.Color;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
-import com.baichang.android.widget.BCNoScrollListView;
-import com.orangegangsters.github.swipyrefreshlayout.library.SwipyRefreshLayout;
+
 import com.orangegangsters.github.swipyrefreshlayout.library.SwipyRefreshLayoutDirection;
 import com.txsh.R;
 import com.txsh.quote.Flag;
@@ -17,13 +15,10 @@ import com.txsh.quote.deport.adapter.QuotedPriceAdapter;
 import com.txsh.quote.deport.entity.QuotedListData;
 import com.txsh.quote.deport.model.Impl.QuotedListInteractionImpl;
 import com.txsh.quote.deport.model.QuotedListInteraction;
-import com.txsh.quote.deport.present.QuotedDetailPresent;
 import com.txsh.quote.deport.present.QuotedListPresent;
 import com.txsh.quote.deport.view.QuotedListView;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.base.MLAppDiskCache;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.model.MLLogin;
+import com.txsh.base.MLAppDiskCache;
+import com.txsh.model.MLLogin;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

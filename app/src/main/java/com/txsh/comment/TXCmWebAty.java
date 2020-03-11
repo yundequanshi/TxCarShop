@@ -14,7 +14,7 @@ import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.txsh.R;
 import com.txsh.model.TxCmWebData;
-import com.zuomei.base.BaseActivity;
+import com.txsh.base.BaseActivity;
 
 /**
  * web 页面

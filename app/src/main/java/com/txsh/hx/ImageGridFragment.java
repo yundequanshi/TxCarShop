@@ -239,7 +239,6 @@ public class ImageGridFragment extends Fragment implements OnItemClickListener {
 			{
 				holder.icon.setVisibility(View.GONE);
 				holder.tvDur.setVisibility(View.GONE);
-				holder.tvSize.setText(st1);
 				holder.imageView.setImageResource(R.drawable.em_actionbar_camera_icon);
 			}else{
 				holder.icon.setVisibility(View.VISIBLE);

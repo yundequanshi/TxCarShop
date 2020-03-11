@@ -8,10 +8,9 @@ import cn.ml.base.MLAdapterBase;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.model.MLHomeCatalogData;
-import com.zuomei.model.MLHomeCityData;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
+import com.txsh.model.MLHomeCityData;
 
 /**
  * Created by Marcello on 2015/6/3.

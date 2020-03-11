@@ -12,16 +12,15 @@ import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.txsh.R;
 import com.txsh.adapter.TXShopPJAdapter;
-import com.txsh.model.TXShopCarData;
 import com.txsh.model.TXShopPjData;
 import com.txsh.services.MLShopServices;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.http.ZMHttpRequestMessage;
-import com.zuomei.http.ZMHttpType;
-import com.zuomei.http.ZMRequestParams;
-import com.zuomei.model.MLLogin;
+import com.txsh.base.BaseActivity;
+import com.txsh.base.BaseApplication;
+import com.txsh.http.ZMHttpError;
+import com.txsh.http.ZMHttpRequestMessage;
+import com.txsh.http.ZMHttpType;
+import com.txsh.http.ZMRequestParams;
+import com.txsh.model.MLLogin;
 
 import java.util.List;
 

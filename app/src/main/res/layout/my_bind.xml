@@ -32,7 +32,7 @@
         android:textSize="23sp"
         />
 </RelativeLayout>    
-    <com.zuomei.widget.MLLineLayout 
+    <com.txsh.widget.MLLineLayout
 		android:id="@+id/add_name"
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
@@ -48,8 +48,8 @@
          android:layout_width="170dp"
          android:hint="请输入姓名..."
          />
-     </com.zuomei.widget.MLLineLayout>
-       <com.zuomei.widget.MLLineLayout 
+     </com.txsh.widget.MLLineLayout>
+       <com.txsh.widget.MLLineLayout
 		android:id="@+id/add_cft"
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
@@ -65,7 +65,7 @@
          android:layout_width="170dp"
          android:hint="请输入财付通账号..."
          />
-     </com.zuomei.widget.MLLineLayout>
+     </com.txsh.widget.MLLineLayout>
      
        
        <Button

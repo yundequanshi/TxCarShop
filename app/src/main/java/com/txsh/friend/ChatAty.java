@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.lidroid.xutils.ViewUtils;
 import com.txsh.R;
-import com.zuomei.base.BaseAct;
+import com.txsh.base.BaseAct;
 
 /**
  *  聊天

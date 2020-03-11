@@ -1,7 +1,6 @@
 package com.txsh.shop;
 
 import android.content.Context;
-import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -14,7 +13,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.EditText;
-import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.RadioButton;
 
@@ -29,19 +27,15 @@ import com.txsh.R;
 import com.txsh.adapter.TxShopMainAdapter;
 import com.txsh.model.TXShopListRes;
 import com.txsh.services.MLShopServices;
-import com.zuomei.auxiliary.MLAuxiliaryActivity;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.base.BaseFragment;
-import com.zuomei.constants.MLConstants;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.http.ZMHttpRequestMessage;
-import com.zuomei.http.ZMHttpType;
-import com.zuomei.http.ZMRequestParams;
-import com.zuomei.model.MLHomeAdData;
-import com.zuomei.model.MLHomeBusinessData;
-import com.zuomei.model.MLLogin;
+import com.txsh.base.BaseApplication;
+import com.txsh.base.BaseFragment;
+import com.txsh.http.ZMHttpError;
+import com.txsh.http.ZMHttpRequestMessage;
+import com.txsh.http.ZMHttpType;
+import com.txsh.http.ZMRequestParams;
+import com.txsh.model.MLHomeAdData;
+import com.txsh.model.MLLogin;
 
-import java.io.Serializable;
 import java.util.List;
 
 import cn.ml.base.utils.MLStrUtil;

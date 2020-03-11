@@ -45,7 +45,7 @@
         android:textSize="18sp"
         />
 </RelativeLayout>
-<!-- <com.zuomei.widget.pulltorefresh.PullToRefreshListView
+<!-- <com.txsh.widget.pulltorefresh.PullToRefreshListView
         android:id="@+id/phone_lv"
 			android:layout_width="match_parent"
         android:layout_height="match_parent"

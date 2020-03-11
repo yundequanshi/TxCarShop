@@ -6,7 +6,7 @@
    android:background="@color/cm_bg_layout"
    android:fitsSystemWindows="true"
    android:orientation="vertical"
-   tools:context="com.qipei.interact.ParsePeopleActivity">
+   tools:context=".interact.ParsePeopleActivity">
 
    <RelativeLayout
       android:id="@+id/topbar"

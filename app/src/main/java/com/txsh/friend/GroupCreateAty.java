@@ -19,12 +19,12 @@ import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.txsh.R;
 import com.txsh.adapter.HxGroupMemberAdapter;
 import com.txsh.model.HxUserLoginData;
-import com.zuomei.base.BaseAct;
+import com.txsh.base.BaseAct;
 import com.easemob.easeui.utils.HxApi;
 import com.easemob.easeui.utils.HxHttpApi;
-import com.zuomei.base.MLAppDiskCache;
-import com.zuomei.base.MLEventBusModel;
-import com.zuomei.constants.MLConstants;
+import com.txsh.base.MLAppDiskCache;
+import com.txsh.base.MLEventBusModel;
+import com.txsh.constants.MLConstants;
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;

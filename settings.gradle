@@ -1,2 +1,2 @@
-include ':app', ':abase'
+include ':app', ':abase', ':galleryfinal', ':hxmodule', ':sharesdk'
 rootProject.name='TxCarShop'

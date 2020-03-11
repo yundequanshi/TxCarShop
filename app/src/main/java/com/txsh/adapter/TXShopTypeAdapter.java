@@ -2,18 +2,16 @@ package com.txsh.adapter;
 
 import android.content.Context;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.TextView;
 import cn.ml.base.MLAdapterBase;
 import cn.ml.base.widget.roundedimageview.RoundedImageView;
-import com.bumptech.glide.Glide;
+
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
 import com.txsh.model.TXShopTypeListRes.TXHomeGoodsTypeImageData;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.model.MLAccidentDetailData;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
 
 /**
  * Created by Marcello on 2015/6/3.

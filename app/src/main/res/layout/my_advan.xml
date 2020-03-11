@@ -75,7 +75,7 @@
 		style="@style/common_list"  
         />
 </com.ab.view.pullview.AbPullToRefreshView>
-<!-- <com.zuomei.widget.pulltorefresh.PullToRefreshListView
+<!-- <com.txsh.widget.pulltorefresh.PullToRefreshListView
         android:id="@+id/accident_lv_car"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

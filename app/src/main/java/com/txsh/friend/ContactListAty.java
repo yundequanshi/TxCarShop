@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentTransaction;
 
 import com.lidroid.xutils.ViewUtils;
 import com.txsh.R;
-import com.zuomei.base.BaseAct;
+import com.txsh.base.BaseAct;
 
 /**
  * 好友列表

@@ -1,6 +1,5 @@
 package com.txsh.quote.business;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ListView;
@@ -15,7 +14,7 @@ import com.txsh.quote.business.entity.BizQuotedTransferData;
 import com.txsh.quote.business.present.BizQuotedListPresent;
 import com.txsh.quote.business.present.Impl.BizQuotedListPresentImpl;
 import com.txsh.quote.business.view.BizQuotedListView;
-import com.zuomei.base.MLEventBusModel;
+import com.txsh.base.MLEventBusModel;
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;

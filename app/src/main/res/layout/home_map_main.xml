@@ -32,7 +32,7 @@
         android:textColor="@color/common_white"
         android:textSize="23sp"
         /> -->
-      <com.zuomei.widget.MLTabGroup 
+      <com.txsh.widget.MLTabGroup
           android:id="@+id/map_tab"
           android:layout_width="160dp"
           android:layout_height="35dp"

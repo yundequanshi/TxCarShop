@@ -1,18 +1,15 @@
 package com.txsh.quote.deport.adapter;
 
-import android.annotation.TargetApi;
 import android.content.Context;
-import android.os.Build.VERSION_CODES;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.baichang.android.common.BCAdapterBase;
 import com.baichang.android.utils.BCStringUtil;
 import com.bumptech.glide.Glide;
-import com.lidroid.xutils.ViewUtils;
 import com.txsh.R;
 import com.txsh.quote.deport.entity.QuotedDetailData.CompanyData;
-import com.zuomei.constants.APIConstants;
+import com.txsh.constants.APIConstants;
 
 
 public class BizQuotedAdapter extends BCAdapterBase<CompanyData> {

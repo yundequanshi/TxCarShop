@@ -1,7 +1,6 @@
 package com.txsh.model;
 
 import com.google.gson.annotations.Expose;
-import com.zuomei.model.MLBaseResponse;
 
 import java.io.Serializable;
 import java.util.List;

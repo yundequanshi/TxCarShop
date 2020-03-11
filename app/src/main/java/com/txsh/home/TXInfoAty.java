@@ -13,15 +13,15 @@ import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.txsh.R;
 import com.txsh.adapter.TXInfoAdapter;
 import com.txsh.model.TXInfoRes;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.constants.MLConstants;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.http.ZMHttpRequestMessage;
-import com.zuomei.http.ZMHttpType;
-import com.zuomei.http.ZMRequestParams;
-import com.zuomei.services.MLHomeServices;
+import com.txsh.base.BaseActivity;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
+import com.txsh.constants.MLConstants;
+import com.txsh.http.ZMHttpError;
+import com.txsh.http.ZMHttpRequestMessage;
+import com.txsh.http.ZMHttpType;
+import com.txsh.http.ZMRequestParams;
+import com.txsh.services.MLHomeServices;
 
 import java.util.List;
 

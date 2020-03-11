@@ -9,11 +9,11 @@ import android.widget.RadioGroup;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
-import com.qipei.adapter.FragmentTabAdapter;
+import com.txsh.adapter.FragmentTabAdapter;
 import com.txsh.R;
-import com.zuomei.auxiliary.MLMyBill2ListFrg;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.model.MLHomeBusinessData;
+import com.txsh.auxiliary.MLMyBill2ListFrg;
+import com.txsh.base.BaseActivity;
+import com.txsh.model.MLHomeBusinessData;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,10 +1,8 @@
 package com.txsh.utils;
 
-import android.util.Log;
-import com.zuomei.base.MLAppDiskCache;
-import com.zuomei.model.UserCityData;
-import com.zuomei.model.UserCityData.UserCity;
-import java.util.List;
+import com.txsh.base.MLAppDiskCache;
+import com.txsh.model.UserCityData;
+import com.txsh.model.UserCityData.UserCity;
 
 /**
  * Created by 汉玉 on 2017/3/9.

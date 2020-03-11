@@ -69,7 +69,7 @@
                 android:layout_marginTop="8dp"
                 android:text="汽修厂备注：" /> -->
 
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="50dp"
 		ml:text="名   称:"
@@ -90,9 +90,9 @@
          android:gravity="center_vertical"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
 
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="50dp"
 		ml:text="车    型:"
@@ -111,9 +111,9 @@
          android:gravity="center_vertical"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
 
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="50dp"
 		ml:text="子车型:"
@@ -134,10 +134,10 @@
          android:gravity="center_vertical"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
  
 
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="50dp"
 		ml:text="车架号:"
@@ -157,9 +157,9 @@
          android:maxLength="20"
          android:gravity="center_vertical"
          />
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
  
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="50dp"
 		ml:text="年   份:"
@@ -181,7 +181,7 @@
          android:gravity="center_vertical"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
 
             <EditText
                 android:id="@+id/et_dt_content"

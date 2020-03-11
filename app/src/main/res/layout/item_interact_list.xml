@@ -269,7 +269,7 @@
          android:layout_marginLeft="10dp"
          android:src="@mipmap/icon_praise_small" />
 
-      <com.qipei.part.CommentTextView
+      <com.txsh.part.CommentTextView
          android:id="@+id/tv_more_parse"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"

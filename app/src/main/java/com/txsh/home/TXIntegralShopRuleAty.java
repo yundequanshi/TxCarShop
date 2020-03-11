@@ -9,8 +9,8 @@ import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.txsh.R;
 import com.txsh.adapter.TxIntegralShopAdapter;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.constants.APIConstants;
+import com.txsh.base.BaseActivity;
+import com.txsh.constants.APIConstants;
 
 /**
  *积分商城 规则

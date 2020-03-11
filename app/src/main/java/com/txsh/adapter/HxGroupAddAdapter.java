@@ -11,14 +11,13 @@ import com.baichang.android.request.HttpSubscriber;
 import com.baichang.android.request.HttpSuccessListener;
 import com.baichang.android.utils.BCToastUtil;
 import com.easemob.easeui.model.GroupData;
-import com.easemob.easeui.model.HxUser;
 import com.easemob.easeui.utils.HxApi;
 import com.easemob.easeui.utils.HxHttpApi;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
 import com.txsh.model.HxUserLoginData;
-import com.zuomei.base.MLAppDiskCache;
+import com.txsh.base.MLAppDiskCache;
 
 import java.util.HashMap;
 import java.util.Map;

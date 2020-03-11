@@ -43,7 +43,7 @@
         android:layout_marginRight="8dp"
         />
 </RelativeLayout>
-<!-- <com.zuomei.widget.pulltorefresh.PullToRefreshListView
+<!-- <com.txsh.widget.pulltorefresh.PullToRefreshListView
         android:id="@+id/stock_lv"
 		android:background="@color/common_white"
 		android:layout_below="@id/top_bar"

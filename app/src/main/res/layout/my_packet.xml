@@ -35,7 +35,7 @@
         />
 </RelativeLayout>
 
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
 		ml:text="红包个数:"
@@ -57,13 +57,13 @@
            android:maxLength="20"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
 
 
 
  
 
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
 		ml:text="红包金额:"
@@ -85,10 +85,10 @@
            android:maxLength="20"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
  
 
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
 		ml:text="红包限额:"
@@ -110,7 +110,7 @@
          android:maxLength="18"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
  
 
  

@@ -1,6 +1,5 @@
 package com.txsh.shop;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -8,7 +7,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
-import cn.ml.base.utils.MLStrUtil;
+
 import com.ab.view.pullview.AbPullToRefreshView;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
@@ -16,16 +15,14 @@ import com.txsh.R;
 import com.txsh.adapter.TxShopMainAdapter;
 import com.txsh.model.TXShopListRes;
 import com.txsh.model.TXShopListRes.TXShopListData;
-import com.txsh.model.TXShopPlayListRes;
-import com.txsh.model.TXShopTypeListRes;
 import com.txsh.model.TXShopTypeListRes.TXHomeGoodsTypeImageData;
 import com.txsh.services.MLShopServices;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.http.ZMHttpRequestMessage;
-import com.zuomei.http.ZMHttpType;
-import com.zuomei.http.ZMRequestParams;
+import com.txsh.base.BaseActivity;
+import com.txsh.base.BaseApplication;
+import com.txsh.http.ZMHttpError;
+import com.txsh.http.ZMHttpRequestMessage;
+import com.txsh.http.ZMHttpType;
+import com.txsh.http.ZMRequestParams;
 import java.util.List;
 
 public class TXShopGoodsByTypeActivity extends BaseActivity {

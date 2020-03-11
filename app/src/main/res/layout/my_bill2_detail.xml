@@ -60,7 +60,7 @@
             android:layout_height="match_parent"
             android:orientation="vertical"
         >
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
 		ml:text="商家名称:"
@@ -81,13 +81,13 @@
            android:maxLength="20"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
 
 
 
  
 
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
 		ml:text="发货时间:"
@@ -107,9 +107,9 @@
            android:maxLength="20"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
  
-<com.zuomei.widget.MLLineLayout 
+<com.txsh.widget.MLLineLayout
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
 		ml:text="上传时间:"
@@ -128,7 +128,7 @@
            android:maxLength="20"
          />
      
- </com.zuomei.widget.MLLineLayout>
+ </com.txsh.widget.MLLineLayout>
 
     <ImageView
             android:id="@+id/add_phone"

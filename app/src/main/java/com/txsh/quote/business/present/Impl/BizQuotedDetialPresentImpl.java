@@ -22,7 +22,6 @@ import com.bumptech.glide.Glide;
 import com.easemob.easeui.model.HxUser;
 import com.easemob.easeui.utils.Contants;
 import com.google.gson.Gson;
-import com.google.gson.JsonParser;
 import com.txsh.R;
 import com.txsh.friend.ChatAty;
 import com.txsh.quote.BCPopUpWindowsUtils;
@@ -38,17 +37,14 @@ import com.txsh.quote.business.model.BizQuotedDetailInteraction;
 import com.txsh.quote.business.model.Impl.BizQuotedDetailInteractionImpl;
 import com.txsh.quote.business.present.BizQuotedDetailPresent;
 import com.txsh.quote.business.view.BizQuotedDetailView;
-import com.zuomei.base.MLAppDiskCache;
-import com.zuomei.base.MLEventBusModel;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.model.MLLogin;
+import com.txsh.base.MLAppDiskCache;
+import com.txsh.base.MLEventBusModel;
+import com.txsh.constants.APIConstants;
+import com.txsh.model.MLLogin;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import org.greenrobot.eventbus.EventBus;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 /**
  * Created by 汉玉 on 2017/3/15.

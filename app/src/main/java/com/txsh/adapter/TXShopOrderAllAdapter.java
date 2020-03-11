@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
-import com.zuomei.model.MLHomeCatalogData;
+import com.txsh.model.MLHomeCatalogData;
 
 import cn.ml.base.MLAdapterBase;
 

@@ -59,7 +59,7 @@
  -->
 </RelativeLayout>
 	<!-- 	style="@style/common_list"       -->
-<!-- <com.zuomei.widget.pulltorefresh.PullToRefreshListView
+<!-- <com.txsh.widget.pulltorefresh.PullToRefreshListView
         android:id="@+id/message_lv"
 			android:layout_width="match_parent"
         android:layout_height="match_parent"

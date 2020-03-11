@@ -67,7 +67,7 @@
             android:textColor="#989898"
             android:textSize="14sp" />
 
-        <com.zuomei.widget.MLCircleImageView
+        <com.txsh.widget.MLCircleImageView
             android:id="@+id/my_iv_head"
             android:layout_width="60dp"
             android:layout_height="60dp"

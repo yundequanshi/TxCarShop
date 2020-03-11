@@ -12,12 +12,11 @@
       android:gravity="center_vertical"
       android:orientation="horizontal">
 
-      <com.baichang.android.widget.roundedImageView.RoundedImageView
+      <com.baichang.android.widget.roundedimageview.RoundedImageView
          android:id="@+id/roundedImageView"
          android:layout_width="40dp"
          android:layout_height="40dp"
          android:scaleType="fitXY"
-         android:src="@drawable/sina_web_default"
          app:riv_oval="true" />
 
       <RelativeLayout

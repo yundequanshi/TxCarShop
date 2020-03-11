@@ -90,7 +90,7 @@
             android:background="@drawable/home_et_search"
             android:hint="请输入..." />
 
-        <com.zuomei.widget.MLTabGroup
+        <com.txsh.widget.MLTabGroup
             android:id="@+id/accident_tab"
             android:layout_width="match_parent"
             android:layout_height="45dp"

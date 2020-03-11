@@ -47,7 +47,7 @@ import com.easemob.easeui.utils.EaseCommonUtils;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.PathUtil;
 import com.txsh.R;
-import com.zuomei.base.BaseAct;
+import com.txsh.base.BaseAct;
 
 import java.io.BufferedOutputStream;
 import java.io.File;

@@ -27,7 +27,7 @@ import com.txsh.hx.ChatRowVoiceCall;
 import com.txsh.hx.ImageGridActivity;
 import com.txsh.hx.VideoCallActivity;
 import com.txsh.hx.VoiceCallActivity;
-import com.zuomei.base.MLBaseConstants;
+import com.txsh.base.MLBaseConstants;
 
 import java.io.File;
 import java.io.FileOutputStream;

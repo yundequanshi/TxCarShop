@@ -421,7 +421,7 @@
                     android:text="更多产品"
                     android:textColor="@color/common_blue" />
             </RelativeLayout>
-            <com.zuomei.widget.ScrollGridView
+            <com.txsh.widget.ScrollGridView
                 android:id="@+id/business_product"
                 style="@style/common_list"
                 android:background="@color/common_transparent"

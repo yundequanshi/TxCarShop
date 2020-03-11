@@ -20,7 +20,7 @@ import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
 import com.txsh.adapter.HxMsgRecordAdapter;
-import com.zuomei.base.BaseAct;
+import com.txsh.base.BaseAct;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -59,7 +59,7 @@
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
          />
-    <com.zuomei.widget.MLCircleImageView
+    <com.txsh.widget.MLCircleImageView
         android:id="@+id/my_iv_head"
         android:layout_width="60dp"
         android:layout_height="60dp"

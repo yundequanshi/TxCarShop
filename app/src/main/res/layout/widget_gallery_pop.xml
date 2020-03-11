@@ -5,7 +5,7 @@
     android:background="#e0000000"
     >
     
- <com.zuomei.widget.picgallery.PicGallery
+ <com.txsh.widget.picgallery.PicGallery
             android:id="@+id/pic_gallery"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

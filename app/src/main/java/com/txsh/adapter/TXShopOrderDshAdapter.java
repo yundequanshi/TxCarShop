@@ -18,9 +18,9 @@ import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
 import com.txsh.model.TXEventModel;
 import com.txsh.model.TXShopOrderRes;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.constants.MLConstants;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
+import com.txsh.constants.MLConstants;
 
 import cn.ml.base.MLAdapterBase;
 import cn.ml.base.utils.MLStrUtil;

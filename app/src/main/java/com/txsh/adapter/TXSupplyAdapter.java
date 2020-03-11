@@ -18,8 +18,8 @@ import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
 import com.txsh.model.TXSupplyRes;
 import com.txsh.utils.GridViewInScrollView;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
 
 import org.json.JSONArray;
 import org.json.JSONException;

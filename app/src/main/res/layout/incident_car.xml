@@ -72,7 +72,7 @@
                android:background="@color/common_white"
                android:clickable="true" />
 
-            <com.zuomei.widget.sortlistview.SideBar
+            <com.txsh.widget.sortlistview.SideBar
                android:id="@+id/home_sidrbar"
                android:layout_width="20dp"
                android:layout_height="match_parent"

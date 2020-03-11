@@ -19,9 +19,9 @@ import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.txsh.R;
-import com.zuomei.base.BaseFragment;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.model.MLSpecialResonse;
+import com.txsh.base.BaseFragment;
+import com.txsh.http.ZMHttpError;
+import com.txsh.model.MLSpecialResonse;
 
 import cn.ml.base.utils.IEvent;
 

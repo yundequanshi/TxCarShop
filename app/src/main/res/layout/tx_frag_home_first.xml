@@ -110,7 +110,7 @@
                   android:layout_margin="10dp"
                   android:background="#CDCDCD" />
 
-               <com.zuomei.utils.AutoTextView
+               <com.txsh.utils.AutoTextView
                   android:id="@+id/tx_frag_home_autotext"
                   style="@style/wrap_all"
                   android:layout_margin="10dp"

@@ -7,10 +7,9 @@ import android.view.View;
 import android.widget.TextView;
 import com.baichang.android.common.BCAdapterBase;
 import com.baichang.android.utils.BCStringUtil;
-import com.lidroid.xutils.ViewUtils;
 import com.txsh.R;
 import com.txsh.quote.business.entity.BizQuotedListData;
-import com.zuomei.base.MLAppDiskCache;
+import com.txsh.base.MLAppDiskCache;
 
 
 public class BizAlreadyQuotedListAdapter extends BCAdapterBase<BizQuotedListData> {

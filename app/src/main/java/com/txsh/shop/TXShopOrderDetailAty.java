@@ -27,19 +27,17 @@ import com.txsh.adapter.TXShopOrderSumAdapter;
 import com.txsh.model.TXOrderDetailRes;
 import com.txsh.model.TXShopOrderRes;
 import com.txsh.services.MLShopServices;
-import com.zuomei.base.BaseActivity;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.http.ZMHttpError;
-import com.zuomei.http.ZMHttpRequestMessage;
-import com.zuomei.http.ZMHttpType;
-import com.zuomei.http.ZMRequestParams;
-import com.zuomei.model.MLLogin;
+import com.txsh.base.BaseActivity;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
+import com.txsh.http.ZMHttpError;
+import com.txsh.http.ZMHttpRequestMessage;
+import com.txsh.http.ZMHttpType;
+import com.txsh.http.ZMRequestParams;
+import com.txsh.model.MLLogin;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-
-import cn.ml.base.widget.sample.MLNoScrollListView;
 
 /**
  * Created by Marcello on 2015/7/16.

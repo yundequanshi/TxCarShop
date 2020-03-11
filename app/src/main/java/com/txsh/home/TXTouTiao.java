@@ -15,7 +15,7 @@ import android.widget.TextView;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.txsh.R;
-import com.zuomei.base.BaseActivity;
+import com.txsh.base.BaseActivity;
 
 /**
  * 首页-实用工具

@@ -1,20 +1,16 @@
 package com.txsh.utils;
 
 import com.txsh.R;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.utils.BitmapUtil;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
 
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.drawable.Drawable;
-import android.media.ThumbnailUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 public class HorizontalListViewAdapter extends BaseAdapter {
 	private String images;

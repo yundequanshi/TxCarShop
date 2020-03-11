@@ -11,8 +11,8 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 
 import com.txsh.R;
-import com.zuomei.constants.APIConstants;
-import com.zuomei.home.MLHomeProductPop;
+import com.txsh.constants.APIConstants;
+import com.txsh.home.MLHomeProductPop;
 
 public class TXDetailImageAdapter extends PagerAdapter {
 	private List<View> list;

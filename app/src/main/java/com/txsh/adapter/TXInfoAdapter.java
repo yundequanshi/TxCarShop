@@ -9,8 +9,8 @@ import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.txsh.R;
 import com.txsh.model.TXInfoRes;
-import com.zuomei.base.BaseApplication;
-import com.zuomei.constants.APIConstants;
+import com.txsh.base.BaseApplication;
+import com.txsh.constants.APIConstants;
 
 import cn.ml.base.MLAdapterBase;
 

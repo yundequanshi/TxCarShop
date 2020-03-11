@@ -1,9 +1,6 @@
 package com.txsh.model;
 
 import com.google.gson.annotations.Expose;
-import com.zuomei.model.MLBaseResponse;
-
-import java.io.Serializable;
 
 /**
  * Created by Administrator on 2015/7/23.

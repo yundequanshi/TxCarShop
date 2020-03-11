@@ -14,7 +14,7 @@ import com.txsh.quote.deport.entity.QuotedListData;
 import com.txsh.quote.deport.present.Impl.QuotedListImpl;
 import com.txsh.quote.deport.present.QuotedListPresent;
 import com.txsh.quote.deport.view.QuotedListView;
-import com.zuomei.base.MLEventBusModel;
+import com.txsh.base.MLEventBusModel;
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;

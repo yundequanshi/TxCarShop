@@ -18,7 +18,7 @@ import android.widget.TextView;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.txsh.R;
-import com.zuomei.base.BaseActivity;
+import com.txsh.base.BaseActivity;
 
 import cn.ml.base.utils.MLStrUtil;
 

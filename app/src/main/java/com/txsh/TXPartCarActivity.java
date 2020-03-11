@@ -1,14 +1,11 @@
 package com.txsh;
 
-import android.app.Activity;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import android.widget.FrameLayout;
 
-import com.zuomei.auxiliary.MLMyPartCarFrg;
-import com.zuomei.base.BaseActivity;
+import com.txsh.auxiliary.MLMyPartCarFrg;
+import com.txsh.base.BaseActivity;
 
 public class TXPartCarActivity extends BaseActivity {
 
